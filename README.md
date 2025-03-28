@@ -1,7 +1,7 @@
-# TON-wallet-generator
+pip install ton-client-py
+pip install pytoniq-core tonutils requests
+pip install pytoniq-core tonutils requests asyncio
+pip install tqdm
+pip install pytoniq-core tonutils requests colorama
 
-This Python script generates 2-3 wallets approximately every two seconds and saves the address and sydphrase to the wallets.txt file
-
-Thus, through the script, you can generate your own wallet with a beautiful beginning or end. Wallets are generated in UQ format
-
-The creator of this script is @yaklovn (Telegram Username)
+open wallet-generaton.py 
